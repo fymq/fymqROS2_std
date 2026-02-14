@@ -1,0 +1,20 @@
+# ROS2 编译产物
+build/
+install/
+log/
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 编辑器临时文件
+.vscode/
+*.swp
+*.swo
+*~
+
+# 虚拟环境（如果有）
+.venv/
+venv/
